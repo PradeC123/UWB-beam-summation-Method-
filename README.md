@@ -1,2 +1,1 @@
-# UWB-beam-summation-Method-
-Code Documentation
+# UWB-beam-summation-Method-Master's Thesis + Code Documentation 
